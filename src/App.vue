@@ -1,6 +1,6 @@
 <template>
   <TopBanner />
-  <NenefitSection msg="<strong>정당<strong>하게 받을 수 있는 혜택들, <br> 모르고 계셨나요?"/>
+  <NenefitSection />
   
 </template>
 
